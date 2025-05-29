@@ -5,17 +5,17 @@
 </div>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently building a *Website*.
-- 🌱 I’m currently learning *JavaScript & CSS*.
-- 👨‍💻 All of my projects are available at *[My Repository](https://github.com/EdamHakim?tab=repositories)*.
+- 💻 Proficient in *C*, *C++*, *SQL*, *PHP*, *HTML*, *CSS*, and *JavaScript*.
+- 🔭 Currently developing a *web application* focused on real-world functionality and design.
+- 👨‍💻 All of my projects are available at *[My Repository](https://github.com/ESEdamHakim?tab=repositories)*.
 - 📫 Reach me at *[edam.hakim@outlook.com](mailto:edam.hakim@outlook.com)* or on *[LinkedIn](https://www.linkedin.com/in/edamhakim/)*.
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,css,html,python,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,html,javascript,css,python,github" />
 </div>
 
 ## 📊 My Stats:
 <a href="https://github.com/EdamHakim/github-readme-stats">
-  <img alt="Edam Hakim's Stats" src="https://github-readme-stats.vercel.app/api?username=EdamHakim&show_icons=true&theme=react&hide_border=true" />
+  <img alt="Edam Hakim's Stats" src="https://github-readme-stats.vercel.app/api?username=ESEdamHakim&show_icons=true&theme=react&hide_border=true" />
 </a>
