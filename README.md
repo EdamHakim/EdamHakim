@@ -1,21 +1,122 @@
-<a href="#"><img align="left" alt="Welcome" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+## Hi, I'm Edam Hakim — AI Engineering Student & Developer
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+Profile!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!;I'm+Edam+Hakim;AI+Engineering+Student+%26+Developer" />
 </div>
 
-## 🙋‍♂️ About Me:
-- 💻 Proficient in *C*, *C++*, *SQL*, *PHP*, *HTML*, *CSS*, and *JavaScript*.
-- 🔭 Currently developing a *web application* focused on real-world functionality and design.
-- 👨‍💻 All of my projects are available at *[My Repository](https://github.com/ESEdamHakim?tab=repositories)*.
-- 📫 Reach me at *[edam.hakim@outlook.com](mailto:edam.hakim@outlook.com)* or on *[LinkedIn](https://www.linkedin.com/in/edamhakim/)*.
-
-## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,html,javascript,css,python,github" />
+  <a href="https://github.com/EdamHakim?tab=repositories">
+    <img src="https://img.shields.io/badge/View My Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
 </div>
 
-## 📊 My Stats:
-<a href="https://github.com/EdamHakim/github-readme-stats">
-  <img alt="Edam Hakim's Stats" src="https://github-readme-stats.vercel.app/api?username=ESEdamHakim&show_icons=true&theme=react&hide_border=true" />
-</a>
+---
+
+# About Me:
+- I'm a **3rd-year Engineering student** specializing in Artificial Intelligence
+- I build **real-world web and AI applications** using modern technologies
+- Interested in **RAG systems, Agentic AI, and scalable web platforms**
+- Open to collaborating with other developers on meaningful projects
+
+---
+
+## Find me around the web:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edamhakim/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edam.hakim@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/EdamHakim)
+
+---
+
+# Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A862?style=for-the-badge&logo=lightgbm)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant)
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![PHPMyAdmin](https://img.shields.io/badge/phpMyAdmin-003B57?style=for-the-badge&logo=phpmyadmin)
+
+---
+
+# GitHub Stats:
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=EdamHakim&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+## GitHub Trophies
+<div align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?username=EdamHakim&theme=tokyonight&no-frame=true&margin-w=6&column=4)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=EdamHakim&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdamHakim/EdamHakim/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdamHakim/EdamHakim/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EdamHakim/EdamHakim/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EdamHakim&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
