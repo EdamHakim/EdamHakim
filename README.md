@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/EdamHakim?tab=repositories">
-    <img src="https://img.shields.io/badge/View My Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
   </a>
 </div>
 
