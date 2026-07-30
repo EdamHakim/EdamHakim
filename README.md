@@ -75,7 +75,7 @@
 # GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdamHakim&theme=github-dark-blue&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdamHakim&theme=github-dark-blue)](https://git.io/streak-stats)
 
 </div>
 
